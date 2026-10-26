@@ -4,9 +4,9 @@
 
 'Atividade 02'
 
-![img01](atividade01/image-atv02.png)
+![img02](atividade03/image-atv02.png)
 
 'Atividade 03'
 
-![img01](atividade01/image-atv03.png)
+![img03](atividade03/image-atv03.png)
 
